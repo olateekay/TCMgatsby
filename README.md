@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # [![Tina Grande](https://res.cloudinary.com/forestry-demo/image/upload/h_40/v1573060726/tina-grande-wordmark.png)](https://tina-starter-grande.netlify.com/)
 
 **Tina Grande** is a Gatsby starter with full TinaCMS integration. You can use Tina to add and remove posts, customize the theme, write content and more! :tada:
@@ -75,3 +76,7 @@ Thanks to everyone that creates amazing things. You're awesome!
   - [Milo Miloezger](https://unsplash.com/@miloezger)
 
 ![Tina Grande](https://res.cloudinary.com/forestry-demo/image/upload/w_40/v1573151455/grande-cup.png)
+=======
+# TCMgatsby.github.io
+my blog built with gatsby and Tina
+>>>>>>> 4bd73d5d136c713faad7ac38c477456e2dcd30bd
