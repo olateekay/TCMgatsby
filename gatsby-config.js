@@ -111,4 +111,22 @@ module.exports = {
       },
     },
   ],
+  // Customize your site metadata:
+  siteMetadata: {
+    title: "The Coding Mum",
+    author: "Ogunlade Olatokunbo",
+    description: "A mothers journey to becoming a software developer.",
+    keywords:'mothers in tech, women in tech, react,coding mum,coding mom',
+    siteUrl: "https://www.thecodingmum.com/",
+    social: [
+      {
+        name: "twitter",
+        url: "https://twitter.com/thecodingmum",
+      },
+      {
+        name: "github",
+        url: "https://github.com/olateekay",
+      },
+    ],
+  },
 }

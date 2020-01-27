@@ -1,8 +1,9 @@
 {
   "logo": "Coffee",
-  "title": "Tina Grande",
-  "description": "Tina Grande is a feature rich Gatsby starter with full TinaCMS integration.",
-  "author": "TinaCMS",
+  "title": "The Coding Mum",
+  "description": "A mothers journey to becoming a software developer.",
+  "author": "Ogunlade Olatokunbo",
+  "keywords": "mothers in tech, women in tech, react,coding mum,coding mom",
   "__gatsby_resolved": {
     "fileRelativePath": "/content/settings/site.json"
   }

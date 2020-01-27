@@ -7,8 +7,8 @@
     }
   ],
   "hero": {
-    "headline": "Welcome to Tina Grande.",
-    "textline": "This template is filled with sample content to get you started.",
+    "headline": "Welcome to The Coding Mum.",
+    "textline": "A mother's journey to becoming a Software Developer.",
     "ctas": [
       {
         "label": "Read The Blog",
@@ -23,7 +23,7 @@
         "primary": false
       }
     ],
-    "image": "../images/cafe-2.jpg",
+    "image": "../images/tk.jpg",
     "large": true
   },
   "displayTitle": false,
