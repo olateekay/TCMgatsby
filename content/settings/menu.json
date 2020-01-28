@@ -6,7 +6,10 @@
     },
     {
       "label": "About",
-      "link": "/about"
+      "link": "/about",
+      "subMenu": [
+        {}
+      ]
     },
     {
       "label": "Blog",
