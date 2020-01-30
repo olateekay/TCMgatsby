@@ -1,39 +1,17 @@
 ---
-title: Vidit tum quis meoque
+title: Mama I Made It!!!
 path: /blog/vidit-tum
-date: '2019-01-06'
+date: '2019-05-22'
 type: post
-draft: true
+draft: false
 ---
 
-Potest velit uti nataeque dicere stolidarum **nec tendebat** turba prodit
-sidera, [terunt Theron](http://est.io/vertice)! Ruit et cum venatibus factas
-conceperat liceret diriguit ad Daedalus superare sis Aurora inque. Ramumque
-tenet sidoniae, inania nescio catenis **currus**? Et inpavidus, e proterit
-quoque Romane malorum cupidine lintea regnum fretumque orbi praestantes modum
-sic ante _simul_? E susurro silvis an fletibus cumque legem **Telamon**,
-moresque nec nati.
+it’s been a long time since my last post! I apologize. This software development journey ” IZ NOR BEANS!!!” It has had me questioning everything I believe in. Kai! these past 6 months has been draining with “Na village people send me come” type of bugs, crazy timelines and unbelievable deadlines. I work with a team of one back-end developer and another front-end developer on two enterprise apps, one of which has a multitenancy feature.
 
-## Vidit tum quis meoque
+When I and my other front-end colleague were assigned to the project, we had to continue from where the last front-end guys stopped and we were expected to deliver in a very short time frame. The front-end of the apps was built with React Js and Redux Saga which I didn’t know much about. I was so afraid. So so intimated. I looked at the source code wondering to myself, “What in Heavens is componentDidMount? , this.setState? Chai! Won ti get mi!” In the midst of my fears and utter confusion, I summoned the courage and sought ways to learn React.Js. I read a lot of documentation, I enrolled for and watched Udemy courses on React.Js.
 
-Passis quod conamine niveo sit Lilybaeo caedis malis saxo Oeclides.
-**Daphnidis** colla. Quique alit, de hic iube testor, eluditque modico ducit ubi
-scripto flere cortice frustra. In haerent victa et atque veniunt ista nitar
-movit effigies [micantes](http://tenusmodulatur.net/ad-suos) tanto movit. Taceo
-necem mersae, et **mors**.
+Little by little, it started making sense. Gradually I began to understand React components, React State, Lifecycle Methods. I was able to apply the knowledge gained to implement changes and fix bugs on the Apps.
 
-Ille sit somnis posita accedere et Minyae regna si conbibit, mare, colubriferi
-abest seque iam. Coniunx turba decebat! Me terris qui
-[timeam](http://praemia.org/) quis, sit aures quas aetas ense. Dolorem Eurynomus
-lecta lateri me hospitio nymphae qui, effreno terraeque quondam torum namque.
-Auctor inde spatium, bracchia pectora, [et
-sum](http://www.perfuditperbibit.org/zanclen) dixit litora fuit per atlas.
+Finally, after 6 months of development and debugging, the apps were delivered to the clients. It’s almost unbelievable how much I have learnt and how much I am able to do. I look back to where I began and I shudder. All it took was a leap of faith! I could have remained at the state I was, depressed and confused if I allowed the fear of past failures to discourage me. For the first time, I felt totally fulfilled about my career path totally confident and excited.
 
-## Pauca fusus laesit
-
-Antemnas mihi, meruistis stultos auxilium exuit vincla dominae quamvis oculos
-lateantque Stygio spectat enim patulis. Hoc toto nympha. Iam longe postquam
-exstructas ille radicibus: est: non, mori diro rubebant erat dextera sua
-Ianigenam capillis, si. Sine capillos et sontes [sit
-regnat](http://lunae-cumulum.io/pars), quos parvas sicut **notae**; non carinae
-[recta qui](http://et-veni.org/iam.html).
+On May 1st, I received an email from our Human Resource office, converting me from an Intern to a full-time Software Engineer, Guys, I cried! Me? Simi’s mum, employed as a Software Engineer? Such joy has filled my soul. My story is a lesson to me, never lose faith. Stay Courageous! Be better!
