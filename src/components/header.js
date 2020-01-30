@@ -16,8 +16,8 @@ export const Header = styled(({ siteTitle, ...styleProps }) => {
             <SiteTitle>
               <SiteLink to="/">
                 {/* <Coffee /> */}
-                <img src={require('../../content/images/icon.png')} alt=''/>
-                {siteTitle}
+                <img src={require('../../content/images/icon.png')} alt='' style={{margin:-12}}/>
+                {/* {siteTitle} */}
               </SiteLink>
             </SiteTitle>
             <Nav toggleDarkMode={toggleDarkMode} isDarkMode={isDarkMode} />
