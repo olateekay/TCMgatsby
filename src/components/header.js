@@ -16,7 +16,7 @@ export const Header = styled(({ siteTitle, ...styleProps }) => {
             <SiteTitle>
               <SiteLink to="/">
                 {/* <Coffee /> */}
-                <img src={require('../../content/images/icon.png')} alt='' style={{margin:-12}}/>
+                <img src={require('../../content/images/icon.png')} alt='The coding mum logo' style={{margin:-12}}/>
                 {/* {siteTitle} */}
               </SiteLink>
             </SiteTitle>

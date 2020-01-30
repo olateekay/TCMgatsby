@@ -1,7 +1,7 @@
 ---
-title: Artificis restabat ducere
+title: The Journey Begins
 path: /blog/artificis-restabat
-date: '2019-03-06'
+date: '2018-11-18'
 type: post
 ---
 ## Da tempore In editus quantum aratro
